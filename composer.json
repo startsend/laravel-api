@@ -1,0 +1,17 @@
+{
+    "name": "startsend/api",
+    "description": "Пакет для laravel реализующий взаимодействие с API StartSend.ru",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valeriy Bodyagin",
+            "email": "valera@antalika.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "startsend\\api\\": "src/"
+        }
+    },
+    "require": {}
+}
