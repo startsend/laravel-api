@@ -1,13 +1,16 @@
 # laravel-api
-Пакет для laravel реализующий взаимодействие с API StartSend.ru.
+РџР°РєРµС‚ РґР»СЏ laravel СЂРµР°Р»РёР·СѓСЋС‰РёР№ РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёРµ СЃ API StartSend.ru
 
-Пример использования можно посмотреть в ExampleController.php.
+РџСЂРёРјРµСЂ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ РјРѕР¶РЅРѕ РїРѕСЃРјРѕС‚СЂРµС‚СЊ РІ ExampleController.php
 
-Для подключения пакета добавте в composer.json проекта:
+Р”Р»СЏ РїРѕРґРєР»СЋС‡РµРЅРёСЏ РїР°РєРµС‚Р° РґРѕР±Р°РІСЊС‚Рµ РІ composer.json РїСЂРѕРµРєС‚Р°:
+
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/startsend/laravel-api.git"
+      "url": "https://github.com/startsend/startsend-laravel.git"
     }
   ]
-и выполните команду 'composer require startsend/api'.
+  
+Рё РІС‹РїРѕР»РЅРёС‚Рµ РєРѕРјР°РЅРґСѓ 'composer require startsend/laravel'
+
