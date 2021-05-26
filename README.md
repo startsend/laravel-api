@@ -12,5 +12,5 @@
     }
   ]
   
-и выполните команду 'composer require startsend/laravel'
+и выполните команду 'composer require startsend/api'
 
